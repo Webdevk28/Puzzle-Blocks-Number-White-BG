@@ -140,6 +140,17 @@ body {
     font-size: 22px;
     text-align: center;
 }
+.scroll .ban-img {
+    width: 75%;
+    height: auto;
+    flex: 0 0 auto;
+    margin: 4% 0;
+    border: none;
+    outline: none;
+    color: #a2a2a2;
+    font-size: 22px;
+    text-align: center;
+}
 .scroll .box-itemm {
     width: 100%;
     height: auto;
